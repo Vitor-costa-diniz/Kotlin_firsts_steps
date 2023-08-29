@@ -11,8 +11,8 @@ fun retornaUsuario() {
 const val nomeUsuario = "Cristiane" //Tempo de compilação
 
 fun main() {
-    val nome = retornaUsuario() //Tempo de execução
-    val usuario = Usuario()
+//    val nome = retornaUsuario() //Tempo de execução
+//    val usuario = Usuario()
 
 //    val numero1 = 20
 //    val numero2 = 30
