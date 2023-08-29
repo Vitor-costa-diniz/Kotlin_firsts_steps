@@ -4,9 +4,9 @@ fun retornaUsuario() {
     //Executa e retorna Algo
 }
 
-class Usuario {
-
-}
+//class Usuario {
+//
+//}
 
 const val nomeUsuario = "Cristiane" //Tempo de compilação
 
